@@ -2,8 +2,7 @@
   "type": "micro",
   "wake_word": "Maassyanya",
   "author": "custom",
-  "website": "",
-  "model": "maassyanya.tflite",
+  "model": "https://raw.githubusercontent.com/odessa7560-dot/wake-words/refs/heads/main/maassyanya.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
