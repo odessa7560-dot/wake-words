@@ -3,7 +3,7 @@
   "wake_word": "Maassyanya",
   "author": "custom",
   "website": "",
-  "model": "http://192.168.1.121:8123/local/maassyanya.tflite",
+  "model": "https://raw.githubusercontent.com/odessa7560-dot/wake-words/refs/heads/main/maassyanya.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
